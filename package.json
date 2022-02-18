@@ -1,0 +1,29 @@
+{
+  "name": "AEH-Task",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "@splidejs/splide-extension-grid": "^0.2.0",
+    "@splidejs/vue-splide": "^0.3.5",
+    "core-js": "^3.19.3",
+    "nuxt": "^2.15.8",
+    "nuxt-i18n": "^6.28.1",
+    "v-lazy-image": "^2.1.1",
+    "vee-validate": "^3.4.5",
+    "vue": "^2.6.14",
+    "vue-server-renderer": "^2.6.14",
+    "vue-template-compiler": "^2.6.14",
+    "webpack": "^4.46.0"
+  },
+  "devDependencies": {
+    "sass": "^1.49.7",
+    "sass-loader": "^10.2.1"
+  }
+}
